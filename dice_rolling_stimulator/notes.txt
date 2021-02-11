@@ -1,0 +1,15 @@
+Understand the problem
+=======================
+Create a dice
+Make random face number
+looping
+
+Think how to solve the problem
+===============================
+
+Algorithm or plan
+=================
+1.Dev random number
+2.Check the number
+3.print the face
+4.loop
